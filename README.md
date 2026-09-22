@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/DOI-TBD.svg)](https://doi.org/DOI-TBD)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22719535.svg)](https://doi.org/10.5281/zenodo.22719535)
 
 # 偏元数学 · Day26 · S3 方向回归（对象层 ℂ★、二态与偏元序）· Lean 4 形式化验证
 
@@ -6,7 +6,7 @@
 
 本文工作尚未得到独立实验验证，全部结论均为形式化验证层面的初步结果。
 
-> **DOI**：`DOI-TBD`（**发布后回填本行与顶部徽章**）。本仓库上承 Day25 `prenary-math-lean-s3-sw-epsilon-eta`（ε↔η 映射）与 Day24 `prenary-math-lean-s3-complexification`（[10.5281/zenodo.22815027](https://doi.org/10.5281/zenodo.22815027)）。
+> **DOI**：DOI：10.5281/zenodo.22875776。本仓库上承 Day25 `prenary-math-lean-s3-sw-epsilon-eta`（ε↔η 映射）与 Day24 `prenary-math-lean-s3-complexification`（[10.5281/zenodo.22815027](https://doi.org/10.5281/zenodo.22815027)）。
 
 ## 摘要
 
